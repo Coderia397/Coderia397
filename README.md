@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/personal-hero.svg" alt="Ibrahim Ali" width="100%">
+  <a href="https://github.com/streams-project"><img src="assets/banner.webp" alt="Streams. A toy train of devices rides a looping track past a Press Play button." width="100%"></a>
 </p>
 
-<h3 align="center">I build Streams: your own streaming service. One command starts it. One file makes it yours.</h3>
-
-<p align="center">
-  <a href="https://github.com/streams-project"><img src="assets/card-streams.svg" alt="Streams, an open video platform you run yourself. Source opens soon." width="60%"></a>
-</p>
+<h3 align="center">I build Streams: your own streaming service.<br>One command starts it. One file makes it yours.</h3>
