@@ -1,7 +1,9 @@
-### Coderia
+# Ibrahim Ali
 
-i build stuff that does stuff — web apps, tools.
+I build software that runs well on every screen, mostly in Rust.
 
-**now:** yt2tizen — ad-free YouTube button for Google TV, no root
+**[Streams Reader](https://github.com/Coderia397/streams-reader)** reads your documents, articles and books aloud, with a native app for each platform.
 
-TypeScript · React · Node · Python
+**Streams** is an open video platform: one small core, one server, and a real app for each device. It is coming soon.
+
+Rust · TypeScript · Python
